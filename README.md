@@ -27,6 +27,6 @@ composé de :
 conda create -n sparkle python=3.10
 conda activate sparkle
 pip install pyspark numpy pandas scikit-learn matplotlib seaborn
-bash
 
+```markdown
 # LA VIE
